@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+html{
+    width: 70vw;
+    font-size: 62.5%;
+    background-color: lightblue;
+    color: #374D81;
+    margin: 0 auto;
+    height: 100vh;
+
+}
+
+button{
+    font-size: large;
+    font-weight: bold;
+    width: 100px;
+    margin-left: 2.2em;
+    margin-top: 2em;
+}
+
+h1{
+    font-weight: bold;
+    color: #374D81;
+    font-size: 50px;
+    margin-top: 1em;
+    
+}
+
+body{
+    margin: 0 auto;
+}
+
+.reg{
+    font-size: small;
+}
+
+ul li {
+    list-style: none;
+}
+
+ul{
+    margin: 0 auto;
+}
+
+input{
+    display: inline-block;
+    margin-top: 1em;
+    padding: 0.5em;
+}
+fieldset{
+    font-size: 20px;
+}
